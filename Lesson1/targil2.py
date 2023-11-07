@@ -2,7 +2,7 @@
 
 # print("idan hakimi" in "Hello idan hakimi,\nWe recieved your mail...")
 # a="idan hakimi"
-print("jghjhg" in a)
+print("ilya" in a)
 
 s1="ABCDEF"
 print(s1[::-1])
